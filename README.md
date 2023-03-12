@@ -5,3 +5,7 @@
 Este projeto foi feito seguindo os passos da documento do React, disponível no link: <a href="https://reactjs.org/tutorial/tutorial.html" target="_blank">Tutorial: Intro to React</a>.
 
 <hr >
+
+Foi um projeto simples, onde foi criado um jogo da velha, pretendo posteriormente voltar a este projeto para fazer algumas alterações, acressentar algumas outras funcionalidades e estilos mais sofisticados e agradáveis.
+
+Foi a minha primeira interação com React, pretendo daqui em diante aprofundar ainda mais meus aprendizados nesta biblioteca JavaScript com novos projetos.
